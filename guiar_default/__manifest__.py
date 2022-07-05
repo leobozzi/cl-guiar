@@ -144,7 +144,8 @@
         'https://github.com/leobozzi/cl-guiar.git',
         'https://github.com/leobozzi/enterprise.git',
 
-        
+        # Guiar
+        'https://github.com/leobozzi/grupoguiar guiar-addons',
 
         # Odoomates
         # ==========================================================================================
